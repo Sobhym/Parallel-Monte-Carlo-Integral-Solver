@@ -9,7 +9,7 @@ Integral is defined in a text file as explained below.
 
 ### File example
  
-1 4		# lower limts: 	x=1, y=4
-2 5		# upper limits: x=2, y=5
-0.5 3 7  	# (0.5*x^3*y^7)
-0.9 1 6  	# (0.9*x^1*y^6)
+<br />1 4		# lower limts: 	x=1, y=4
+<br />2 5		# upper limits: x=2, y=5
+<br />0.5 3 7  	# (0.5*x^3*y^7)
+<br />0.9 1 6  	# (0.9*x^1*y^6)
